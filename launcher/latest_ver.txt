@@ -1,1 +1,1 @@
-beta_1.1b
+beta_1.0c
